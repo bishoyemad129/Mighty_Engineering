@@ -1,3 +1,4 @@
+firmware/Force_Sensor_ESP32_Mini/
 #include <WiFi.h>
 #include <WebServer.h>
 #include <HTTPClient.h>
